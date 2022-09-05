@@ -1,0 +1,24 @@
+.tempcard__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tempcard__content {
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+    flex-direction: column;
+}
+
+.tempcard__card {
+    width: 75%;
+    border: 1px solid black;
+    border-radius: 0.4rem;
+    background: green;
+    padding:0.3rem;
+    color:white;
+    margin: 1rem;
+
+    
+}
